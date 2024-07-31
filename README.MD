@@ -1,8 +1,8 @@
-<h3>General Information</h3>
-<h3>Technologies Used</h3>
+<h2>General Information</h2>
+<h2>Technologies Used</h2>
 <ul>
 <li>PHP</li>
 <li>CodeIgniter</li>
 <li>Bootstrap</li>
 </ul>
-<h3>Features</h3>
+<h2>Features</h2>
